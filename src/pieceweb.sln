@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pieceweb", "pieceweb.vcproj", "{71BD1BF2-09BC-4734-B581-C610A701C6CB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{71BD1BF2-09BC-4734-B581-C610A701C6CB}.Debug.ActiveCfg = Debug|Win32
+		{71BD1BF2-09BC-4734-B581-C610A701C6CB}.Debug.Build.0 = Debug|Win32
+		{71BD1BF2-09BC-4734-B581-C610A701C6CB}.Release.ActiveCfg = Release|Win32
+		{71BD1BF2-09BC-4734-B581-C610A701C6CB}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
